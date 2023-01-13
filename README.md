@@ -1,4 +1,4 @@
-                               Customer Segmentation: Customer personality analysis
+                         Customer Segmentation: Customer personality analysis
 
 Customer segmentation is the process of dividing a company's customer base into smaller groups with common characteristics, based on demographic, behavioral, or other variables. It is a powerful tool for understanding the needs, preferences, and behaviors of different groups of customers, and for designing targeted marketing strategies.
 
